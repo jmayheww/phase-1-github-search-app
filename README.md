@@ -56,7 +56,7 @@ show all the repositories for that user.
    submitted, it should take the value of the input and search GitHub for user
    matches using the [User Search Endpoint](#user-search-endpoint).
 2. Using the results of the search, display information about the users to the
-   page. (You might include showing their username, avatar and a link to their
+   page. (You mi ght include showing their username, avatar and a link to their
    profile.)
 3. Clicking on one of these users should send a request to the
    [User Repos Endpoint](#user-repos-endpoint) and return data about all the
